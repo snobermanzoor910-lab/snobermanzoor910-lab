@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Digital Space</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #ff66b2, #ff99cc, #ffcce6);
+            color: white;
+        }
+
+        header {
+            padding: 50px;
+            font-size: 45px;
+            font-weight: bold;
+            background: rgba(255, 20, 147, 0.6);
+        }
+
+        .card {
+            background: white;
+            color: #ff1493;
+            width: 350px;
+            margin: 80px auto;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 15px 30px rgba(255, 20, 147, 0.4);
+        }
+
+        .name {
+            font-size: 35px;
+            font-weight: bold;
+            margin-top: 15px;
+        }
+
+        .hello {
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 120px;
+            padding: 20px;
+            background: rgba(255, 20, 147, 0.7);
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        💖 My Digital Space 💖
+    </header>
+
+    <div class="card">
+        <h2>Welcome!</h2>
+        <p>This website is created by</p>
+        <div class="name">
+            Faizan
+        </div>
+
+        <div class="hello">
+            Hello World 🌸✨
+        </div>
+    </div>
+
+    <footer>
+        @2023 Made by Ajaz Sir
+    </footer>
+
+</body>
+</html>
